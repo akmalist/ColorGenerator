@@ -1,2 +1,0 @@
-# ColorGenerator
-Created with CodeSandbox

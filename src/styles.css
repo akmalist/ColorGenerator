@@ -1,0 +1,16 @@
+body {
+  background-color: lightcyan;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.NewBoxForm-form {
+  display: block;
+  width: 25%;
+}
+/* .Box {
+  display: inline-block;
+} */
